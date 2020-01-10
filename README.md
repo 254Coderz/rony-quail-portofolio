@@ -1,6 +1,6 @@
 ## NOTES FROM MR.QUAIL
 
-This project was a pre existing vuepress template that can be found at https://github.com/forestryio/portfolio-vuepress. I have customized it to serve as a MEVN Stack portfolio site to get client. visit the link above for instruction or use the one below. Be blessed!
+This project was a pre existing vuepress template that can be found at https://github.com/forestryio/portfolio-vuepress. I have customized it to serve as a MEVN Stack portfolio site to source clients. In no way was this my original work but my understanding of vuepress and Vue JS allows me to customize it for my use. visit the link above for instruction or use the one below. Be blessed!
 
 
 
