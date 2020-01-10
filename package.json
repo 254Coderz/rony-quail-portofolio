@@ -4,7 +4,7 @@
     "site:build": "vuepress build portfolio",
     "site:develop": "vuepress dev portfolio"
   },
-  "author": "Nichlas W. Andersen",
+  "author": "Rony Marine Quail",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^4.4.1",
