@@ -1,0 +1,21 @@
+{
+    "title": "Rony Quail",
+    "description": "MEVN Developer Portfolio",
+    "logo": "/upload/logo.svg",
+    "footer": "Ⓒ Rony Quail",
+    "favicon": "favicon-32x32.png",
+    "navigation": [
+      {
+        "text": "Portfolio",
+        "link": "/",
+        "position": "left",
+        "external": false
+      },
+      {
+        "text": "Get In Touch",
+        "link": "/contact/",
+        "position": "right",
+        "external": false
+      }
+    ]
+  }
