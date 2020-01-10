@@ -1,4 +1,8 @@
-## Development
+## NOTES FROM MR.QUAIL
+
+This project was a pre existing vuepress template that can be found at https://github.com/forestryio/portfolio-vuepress. I have customized it to serve as a MEVN Stack portfolio site to get client. visit the link above for instruction or use the one below. Be blessed!
+
+
 
 ```bash
 # install VuePress locally
